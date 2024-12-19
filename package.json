@@ -1,0 +1,11 @@
+{
+  "name": "radius-explorer",
+  "version": "0.0.1",
+  "description": "explore design tokens with Radius and Token Tango",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ken E",
+  "license": "MIT"
+}
