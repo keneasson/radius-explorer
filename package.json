@@ -1,6 +1,6 @@
 {
   "name": "radius-explorer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "explore design tokens with Radius and Token Tango",
   "main": "index.js",
   "scripts": {
